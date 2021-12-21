@@ -1,4 +1,4 @@
-module github.com/tech-with-moss/go-usermgmt-grpc
+module github.com/L-LindLTailor/hezzl_test
 
 go 1.16
 
